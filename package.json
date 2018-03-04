@@ -1,0 +1,26 @@
+{
+  "name": "sass-starter",
+  "version": "1.0.0",
+  "description": "My sass starter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikolab/sass-starter.git"
+  },
+  "keywords": [
+    "sass",
+    "flexbox",
+    "grid",
+    "variables",
+    "mixins"
+  ],
+  "author": "Nikola Birisic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikolab/sass-starter/issues"
+  },
+  "homepage": "https://github.com/nikolab/sass-starter#readme"
+}
